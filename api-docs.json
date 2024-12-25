@@ -7,7 +7,7 @@
     },
     "servers": [
         {
-            "url": "https://api-internal.dev.kienlongbank.co:9443",
+            "url": "https://api-internal.dev.kienlongbank.co/loyalty-service",
             "description": "Generated server url"
         }
     ],
